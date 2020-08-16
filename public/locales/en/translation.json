@@ -1,0 +1,10 @@
+{
+    "TagList": {
+        "_SURVEYS": "Surveys",
+        "_SURVEY": "Survey",
+        "_CREATE": "Create",
+        "_UPDATE": "Update",
+        "_REMOVE": "Remove",
+        "_SURVEY_NAME": "Survey Name"
+    }
+}

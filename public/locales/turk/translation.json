@@ -1,0 +1,10 @@
+{
+    "TagList": {
+        "_SURVEYS": "Anketler",
+        "_SURVEY": "Anket",
+        "_CREATE": "Oluştur",
+        "_UPDATE": "Güncelle",
+        "_REMOVE": "Kaldır",
+        "_SURVEY_NAME": "Anket Adı"
+    }
+}
